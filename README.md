@@ -1,3 +1,5 @@
+![CV Raman](https://github.com/sampreetsamaje/sampreetsamaje/assets/105150280/495962c0-5cd1-490e-b421-44e2356220eb)
+
 <h1 align="center">Hi 👋, I'm Sampreet Samaje</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
